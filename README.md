@@ -1,6 +1,6 @@
 # Option pricing
 # Option Pricing Project  
-**Author: Filippo Tiberi — BSc Finance, Bocconi University**
+**Author: Filippo Tiberi & Alessandro Marazzi — BSc Finance, Bocconi University**
 
 This project implements a modular option pricing engine in Python that supports
 multiple option types and a unified interface for pricing and Greeks.  
